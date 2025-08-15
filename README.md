@@ -4,10 +4,10 @@
 <img align="right" alt="Coding" width="350" height="250" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif">
 
 - 🎓 Pursuing Bachelors of Engineering in Computer Science (BE CSE'26)
-- 🌱 I’m currently working on [Full stack project](https://github.com/Anshuman261104/AutoSphere-Ecommerce)
+- 🌱 I’m currently working on [Full stack project](https://github.com/Anshuman261104/AI-Resume-Optimizer)
 - 👨‍💻 All of my projects are available at [GitHub Profile](https://github.com/Anshuman261104)
 - 📫 Reach me at *anshumantech2611@gmail.com*
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1fANZcoafhU5QbC9NsG0yDlMXNYBiyqtl/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1aV2KYj2vBEAkARcfexfNMSaubLaEuCCz/view?usp=sharing)
 
 
 ## 🌐 Connect with me
