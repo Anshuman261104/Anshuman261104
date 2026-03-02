@@ -12,7 +12,7 @@
 
 ## 🌐 Connect with me
 <p align="left">
-  <a href="https://www.linkedin.com/in/anshumansingh2611/" target="blank">
+  <a href="https://www.linkedin.com/in/anshuman-singh-87aa95297/" target="blank">
     <img align="center" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.leetcode.com/Anshuman261104" target="blank">
